@@ -1,2 +1,2 @@
-# numguess
-Sayı Tahmin
+# Number Guessing
+A simple number guessing game
